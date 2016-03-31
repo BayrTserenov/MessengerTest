@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Messenger Test</string>
+    <string name="you_message">Your Message</string>
+    <string name="btn_send">Send</string>
+</resources>
